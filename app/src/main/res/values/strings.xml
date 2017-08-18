@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PreferenceScreen</string>
+    <string-array name="listpref">
+
+        <item >Week</item>
+        <item >Fortnight</item>
+        <item >Month</item>
+        <item >Never</item>
+    </string-array>
+    <string-array name="listpref_entryval">
+
+        <item >Week</item>
+        <item >Fortnight</item>
+        <item >Month</item>
+        <item >Never</item>
+    </string-array>
+</resources>
